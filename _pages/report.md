@@ -214,3 +214,10 @@ These guidelines are the most significant steps that should be taken, but the pl
 <a id="_ftn6">[6]</a> In the survey, 18 HIPs answered the question whether they have considered or have been working as riders. 12 of them answered in the affirmative. Additionally, as shown by the interview with HKSD at paragraph 3 of Appendix 2, food delivery is an attractive industry for HIPs. 
 
 <a id="_ftn7">[7]</a> We have attempted to contact the platforms directly, but understandably we have received no response.
+
+
+<br/>
+<br/>
+
+
+[Download Here](https://weheard.github.io/files/Report on the Hearing-impaired Delivery Persons' Hurdles.pdf)
