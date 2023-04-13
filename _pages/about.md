@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
- 
+# REPORT OF EMPLOYMENT HURDLES OF HEARING-IMPAIRED PERSONS IN HONG KONG
 
-# Introduction
+
+## Introduction
 
 1.   The food delivery industry in Hong Kong (“**the industry**”) saw a major rise since the outbreak of COVID-19. In 2023, Mei Tuan (美團), the largest food delivery platform in China, is also reportedly planning to enter the Hong Kong market. 
 
@@ -26,7 +27,7 @@ redirect_from:
 
 5.   Now, we conclude our report. 
 
-# Broad Employment Situation
+## Broad Employment Situation
 
 6.   It is imperative to set out broadly the present employment situation of HIRs before entering the discussion of their hurdles. 
 
@@ -34,7 +35,7 @@ redirect_from:
 
 8.   There is no systematic discrimination or bias against HIRs in the industry. Amongst the 5 HIRs participating in the survey, only 1 complained about the existence of any discrimination. Additionally, no complaint was received during the interviews. On the contrary, one HIR interviewer positively said that he felt he was treated equally to others. 
 
-# Employment Hurdles
+## Employment Hurdles
 
 9.   It is understood that potential employment hurdles consist of two stages. First, whether the HIRs are treated discriminatorily in the hiring stage. Second, whether they have any difficulties during their work because of their disabilities. 
 
@@ -58,7 +59,7 @@ redirect_from:
 
 16.  The 3 major difficulties are listed above. There are also other lesser difficulties. For example, it takes more effort for an HIR to get gate access from the security guards of properties. However, these difficulties can be easily overcome and are, therefore, regarded trivial for the purpose of this report. 
 
-# Solutions
+## Solutions
 
 17.  The employment hurdles are discussed above, now, we propose some potential solutions to them. 
 
@@ -78,7 +79,7 @@ redirect_from:
 
      (2)  publish this report to attract public attention.
 
-# Summary
+## Summary
 
 22.  To sum up, HIRs are commonly employed in Hong Kong by both the platforms and small businesses. There is no systematic discrimination against them. 
 
