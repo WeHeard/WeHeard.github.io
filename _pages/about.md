@@ -8,43 +8,211 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+ 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+# Introduction
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+1.   The food delivery industry in Hong Kong (“**the industry**”) saw a major rise since the outbreak of COVID-19. In 2023, Mei Tuan (美團), the largest food delivery platform in China, is also reportedly planning to enter the Hong Kong market. 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2.   Contrast the flourishing industry, little attention has been drawn to the food delivery persons (**“riders”**) with disabilities in Hong Kong. In Mainland China, public attention has been drawn to hearing-impaired riders (“**HIRs**”) through either newspapers or social media, as their disability poses certain difficulties to their job, but does not constitute an absolute bar. 
 
-Site-wide configuration
+3.   Upon our preliminary research, it is noticed that not much light has been cast on this group. Therefore, we proposed, as our final year project, to-
+
+     (1) discover the employment hurdles of the HIRs in Hong Kong, if any, through interviews and surveys, thereby generating a report; and 
+
+     (2) endeavour to solve the problems discovered in the report using the methods mentioned. 
+
+4.   To identify the hurdles, we conducted a survey (“**the** **survey**”) with the assistance of The Hong Kong Society for the Deaf (“**HKSD**”). 27 hearing-impaired persons (“**HIPs**”) participated in the survey, the results of which are attached in Appendix 1. In addition, with the assistance of a few other organisations,[[1\]](#_ftn1) and also by promoting our project on Facebook, we interviewed a few HIPs and HIRs (“**the interviews**”).[[2\]](#_ftn2) The survey and the interviews constitute our main sources of data in the report.
+
+5.   Now, we conclude our report. 
+
+# Broad Employment Situation
+
+6.   It is imperative to set out broadly the present employment situation of HIRs before entering the discussion of their hurdles. 
+
+7.   According to one of our HIR interviewees, insofar as he was aware, there are presently at least more than 10 HIRs employed by the two major food delivery platforms (“the platforms”), Foodpanda and Deliveroo, in Hong Kong. Additionally, HIRs are also hired by small businesses, the numbers of which are unascertainable. 
+
+8.   There is no systematic discrimination or bias against HIRs in the industry. Amongst the 5 HIRs participating in the survey, only 1 complained about the existence of any discrimination. Additionally, no complaint was received during the interviews. On the contrary, one HIR interviewer positively said that he felt he was treated equally to others. 
+
+# Employment Hurdles
+
+9.   It is understood that potential employment hurdles consist of two stages. First, whether the HIRs are treated discriminatorily in the hiring stage. Second, whether they have any difficulties during their work because of their disabilities. 
+
+10.  Upon our interviews with HIRs, it is discovered that though it is stated in the major platforms’ recruiting policies that interviews will be arranged for the riders’ job applications, no substantive scrutiny is carried out therein, such that the platforms would not know whether an applicant is hearing-impaired.[[3\]](#_ftn3) Therefore, discrimination at this stage is unlikely to exist.
+
+11.  One interviewee mentioned that when the platform he is working for later learnt that he is hearing-impaired, no action or enquiry took place.[[4\]](#_ftn4)
+
+12.  That said, it is worth noting, as corroborated by the survey, that the concern about potential discrimination is one of the major factors deterring HIPs from being riders.[[5\]](#_ftn5)
+
+13.  Regarding the second stage, as indicated by the 5 HIRs participating in the survey, the most common hurdle is the difficulty of making phone calls. This difficulty was further broken down in the interviews into 3 parts: 
+
+     (1)  the difficulty in communicating with the waiters at the restaurants. Usually, it suffices for the HIRs to show the orders on their phone to the waiters, and no communication is necessary. However, occasionally, some waiters may require the HIRs to check and confirm that they got the right food. This is when miscommunications may happen;
+
+     (2)  the difficulty when called by the customers. It is not mandatory for the HIRs to call the customers, but sometimes the customers may call them. According to an HIR interviewee, if called by customers, he would have to hang up the phone call first and then send a message to the customer indicating his hearing conditions and inviting them to text back; and
+
+     (3)  the difficulty in communication with the platforms. Sometimes, the platforms may call, instead of text, the HIRs regarding certain issues. This may cause some trouble to the HIRs, especially when they are not aware of the existence of the issues, e.g. missing food.
+
+14.  Another difficulty is with driving or riding motor vehicles. An interviewee asserted that the platforms accord priority to the delivery persons with vehicles when assigning orders. However, it is difficult for HIPs to acquire driving permits and risky for them to drive. Albeit commercially sensible, the platforms’ policy in favour of vehicles may be indirectly discriminatory against HIPs, so much so that 4 HIPs in the survey indicated that they decided not to be HIRs because they do not hold driving permits.
+
+15.  An HIP interviewee with single-sided deafness mentioned that she has to be very cautious when she crosses roads, as she could not identify the location of a detected sound of a car. She is not an HIR, but she considered it dangerous for HIPs with serious disabilities to be riders, as riders are expected to quickly cross many roads.
+
+16.  The 3 major difficulties are listed above. There are also other lesser difficulties. For example, it takes more effort for an HIR to get gate access from the security guards of properties. However, these difficulties can be easily overcome and are, therefore, regarded trivial for the purpose of this report. 
+
+# Solutions
+
+17.  The employment hurdles are discussed above, now, we propose some potential solutions to them. 
+
+18.  Before the discussion of the solutions, it must be emphasised that HIRs, as we observed, are perfectly capable of performing their tasks efficiently and that they have been working very hard to overcome the difficulties. It is desirable to offer them more assistance for the benefit of a fair society, but it would be wrong to suggest that their capabilities as riders are inferior to those of others.
+
+19.  In the hiring stage, the major problem is HIPs’ concern about discrimination. Yet, there is no evidence suggesting the existence of any discrimination in the industry. If HIPs’ concern is solved, they would have one more attractive employment option.[[6\]](#_ftn6) Two things may be done to address this problem:
+
+     (1)  The platforms clearly state in their recruitment policies that disabilities do not automatically disqualify applicants; and
+
+     (2)  We film and publish a documentary (“**the documentary**”) showing that an HIP can work as a rider as efficiently as others, such that the public does not underestimate their capability. 
+
+20.  In the working stage, we consider that the problems can only be solved by the platforms. Therefore, we drafted a series of guidelines (“**the guidelines**”) as set out in Appendix 3 for the platforms to facilitate the employment of HIRs, should they so desire. Since our influence is limited, we decide to try to persuade certain influential organisations to publish the guidelines for us, such that they may carry more influence should the platforms decide to address the problems.
+
+21.  However, it is understood that the platforms’ primary object is commercial interest. Therefore, we must link the welfare of HIRs and the platforms’ commercial interest by raising public awareness of HIRs’ employment hurdles.[[7\]](#_ftn7) In particular, we decide to-
+
+     (1)  also show the hurdles faced by the HIRs in the said documentary; and
+
+     (2)  publish this report to attract public attention.
+
+# Summary
+
+22.  To sum up, HIRs are commonly employed in Hong Kong by both the platforms and small businesses. There is no systematic discrimination against them. 
+
+23.  HIRs’ main hurdles include-
+
+     (1)  their concerns of potential discrimination; 
+
+     (2)  difficulties associated with phone calls; 
+
+     (3)  difficulties with driving and riding motor vehicles; and
+
+     (4)  risks when crossing the roads. 
+
+24.  To solve the hurdles, we purport to-
+
+     (1)  publish the guidelines for the platforms; 
+
+     (2)  persuade influential organisations to publish the guidelines; and
+
+     (3)  film and publish a documentary.
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+Appendix 1
+
+Survey Results
+
+![img](about.assets/clip_image002.png)
+
+![img](about.assets/clip_image004.png)
+
+![img](about.assets/clip_image006.png)
+
+![img](about.assets/clip_image008.png)
+
+![Chart, bar chart  Description automatically generated](about.assets/clip_image010.png)
+
+![Chart, bar chart  Description automatically generated](about.assets/clip_image012.png)
+
+![A picture containing chart  Description automatically generated](about.assets/clip_image014.png)
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+Appendix 2
+
+Selected Interview Records
+
+1.   The following conversation took place:
+
+| WeHeard  Group: | 你之前提到可以網上面試，請問網上面試要做乜嘢？是否需要同hr交流？ |
+| --------------- | ---------------------------------------------------------------- |
+| Interviewee:    | 只係給身份證證明，銀行戶口及自拍，無經hr 交流                    |
+| WeHeard  Group: | 咁所有人申請做外賣員都無需面試？只需提交證明？                   |
+| Interviewee:    | 是                                                               |
+| Interviewee:    | 今日到美團招聘會也不需要面試吧！                                 |
+| WeHeard  Group: | 因為係網上見到有熊貓外賣員講需要面試，甚至英文自我介紹           |
+| WeHeard  Group: | 美圖應該都唔需要面試                                             |
+| WeHeard  Group: | 我以為香港需要                                                   |
+| Interviewee:    | 之前我申請熊貓外賣也沒需面試                                     |
+
+2.   The following conversation took place:
+
+| WeHeard  Group: | 搵呢份工嘅時候，是否有遇到對於聽障人士不方便嘅嘢？譬如電話面試？或者平台招聘存在歧視？ |
+| --------------- | -------------------------------------------------------------------------------------- |
+| Interviewee:    | 只是申請網上面試就掂，日後外賣公司知道我的真相，但讓我繼續做，因為知道客戶對我滿分。   |
+
+3.   The following conversation took place:
+
+| WeHeard  Group: | 您對聽障人士做外賣員有什麼看法嗎，以及在什麼方面會有困難?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Interviewee:    | 其實做外賣員是一個不錯的選擇，我們的一些會員，尤其是年輕的會員，相對來說比較喜歡自由一點，去做food panda， 可以不用每天上下班，做多少就賺多少，這個禮拜想多賺一點就可以多送幾單，沒有同事和老闆也可以避免一些溝通困難和情緒上的困擾，與同事的溝通，誤會誤解什麼的。但做外賣員同樣會遇到溝通上的問題，送貨時找不到地址沒法打電話啦，到店家取餐等餐的時候，因為聽不到，而店家往往都很忙，更不會有耐心與你溝通的，脾氣會有點差的。而且因為沒有一個固定的老闆，在遇到糾紛或困難時只能向客服求助，這就需要打字，其實聽障人士的說話方式，他們的思維方式妨礙到了他們的閱讀能力，表述時語序會和正常人不太一樣，而那些閱讀能力很好的人，能夠讀到學士學位，又不會想去做這些工作的。 |
+
+ 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+Appendix 3
+
+Guidelines
+
+ 
+
+To facilitate the employment of hearing-impaired delivery persons, the food delivery platforms are advised to-
+
+1.   clearly state in their recruitment policies that disabilities do not automatically disqualify applicants; 
+
+2.   notify their customers as such when the delivery persons are hearing-impaired with appropriate measures. At the minimum, such notifications should appear in the mobile applications of the platforms, but this may not be enough, as the customers may not check the applications carefully. It is desirable to give them additional notifications, such as by email;
+
+3.   contact hearing-impaired delivery persons by texts rather than phone calls; and
+
+4.   when assigning orders, treat hearing-impaired delivery persons equally as delivery persons with motor vehicles, except insofar as one’s delivery capacity is concerned.
+
+These guidelines are the most significant steps that should be taken, but the platforms are always advised to be guided by the ultimate aim of ensuring social fairness. A balance should be struck between the need to protect disadvantaged groups and the need to acknowledge their ability to live on themselves.
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+[[1\]](#_ftnref1) The organisations include the Hong Kong Rehabilitation Power and the Dignity Kitchen Hong Kong. 
 
-**Markdown generator**
+[[2\]](#_ftnref2) Due to privacy concerns, the detailed records of the interviews will not be disclosed in the report.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+[[3\]](#_ftnref3) See Appendix 2, paragraph 1.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+[[4\]](#_ftnref4) See Appendix 2, paragraph 2.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+[[5\]](#_ftnref5) 3 HIPs indicated that they decided not to be riders due to the concern about the potential discrimination.
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[[6\]](#_ftnref6) In the survey, 18 HIPs answered the question whether they have considered or have been working as riders. 12 of them answered in the affirmative. Additionally, as shown by the interview with HKSD at paragraph 3 of Appendix 2, food delivery is an attractive industry for HIPs. 
+
+[[7\]](#_ftnref7) We have attempted to contact the platforms directly, but understandably we have received no response.
