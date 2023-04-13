@@ -21,7 +21,7 @@ redirect_from:
 
      (2) endeavour to solve the problems discovered in the report using the methods mentioned. 
 
-4.   To identify the hurdles, we conducted a survey (“**the** **survey**”) with the assistance of The Hong Kong Society for the Deaf (“**HKSD**”). 27 hearing-impaired persons (“**HIPs**”) participated in the survey, the results of which are attached in Appendix 1. In addition, with the assistance of a few other organisations,[[1\](#_ftn1) and also by promoting our project on Facebook, we interviewed a few HIPs and HIRs (“**the interviews**”).[[2\](#_ftn2) The survey and the interviews constitute our main sources of data in the report.
+4.   To identify the hurdles, we conducted a survey (“**the** **survey**”) with the assistance of The Hong Kong Society for the Deaf (“**HKSD**”). 27 hearing-impaired persons (“**HIPs**”) participated in the survey, the results of which are attached in Appendix 1. In addition, with the assistance of a few other organisations,[1\](#_ftn1) and also by promoting our project on Facebook, we interviewed a few HIPs and HIRs (“**the interviews**”).[2\](#_ftn2) The survey and the interviews constitute our main sources of data in the report.
 
 5.   Now, we conclude our report. 
 
@@ -37,11 +37,11 @@ redirect_from:
 
 9.   It is understood that potential employment hurdles consist of two stages. First, whether the HIRs are treated discriminatorily in the hiring stage. Second, whether they have any difficulties during their work because of their disabilities. 
 
-10.  Upon our interviews with HIRs, it is discovered that though it is stated in the major platforms’ recruiting policies that interviews will be arranged for the riders’ job applications, no substantive scrutiny is carried out therein, such that the platforms would not know whether an applicant is hearing-impaired.[[3\](#_ftn3) Therefore, discrimination at this stage is unlikely to exist.
+10.  Upon our interviews with HIRs, it is discovered that though it is stated in the major platforms’ recruiting policies that interviews will be arranged for the riders’ job applications, no substantive scrutiny is carried out therein, such that the platforms would not know whether an applicant is hearing-impaired.[3\](#_ftn3) Therefore, discrimination at this stage is unlikely to exist.
 
-11.  One interviewee mentioned that when the platform he is working for later learnt that he is hearing-impaired, no action or enquiry took place.[[4\](#_ftn4)
+11.  One interviewee mentioned that when the platform he is working for later learnt that he is hearing-impaired, no action or enquiry took place.[4\](#_ftn4)
 
-12.  That said, it is worth noting, as corroborated by the survey, that the concern about potential discrimination is one of the major factors deterring HIPs from being riders.[[5\](#_ftn5)
+12.  That said, it is worth noting, as corroborated by the survey, that the concern about potential discrimination is one of the major factors deterring HIPs from being riders.[5\](#_ftn5)
 
 13.  Regarding the second stage, as indicated by the 5 HIRs participating in the survey, the most common hurdle is the difficulty of making phone calls. This difficulty was further broken down in the interviews into 3 parts: 
 
@@ -63,7 +63,7 @@ redirect_from:
 
 18.  Before the discussion of the solutions, it must be emphasised that HIRs, as we observed, are perfectly capable of performing their tasks efficiently and that they have been working very hard to overcome the difficulties. It is desirable to offer them more assistance for the benefit of a fair society, but it would be wrong to suggest that their capabilities as riders are inferior to those of others.
 
-19.  In the hiring stage, the major problem is HIPs’ concern about discrimination. Yet, there is no evidence suggesting the existence of any discrimination in the industry. If HIPs’ concern is solved, they would have one more attractive employment option.[[6\](#_ftn6) Two things may be done to address this problem:
+19.  In the hiring stage, the major problem is HIPs’ concern about discrimination. Yet, there is no evidence suggesting the existence of any discrimination in the industry. If HIPs’ concern is solved, they would have one more attractive employment option.[6\](#_ftn6) Two things may be done to address this problem:
 
      (1)  The platforms clearly state in their recruitment policies that disabilities do not automatically disqualify applicants; and
 
@@ -71,7 +71,7 @@ redirect_from:
 
 20.  In the working stage, we consider that the problems can only be solved by the platforms. Therefore, we drafted a series of guidelines (“**the guidelines**”) as set out in Appendix 3 for the platforms to facilitate the employment of HIRs, should they so desire. Since our influence is limited, we decide to try to persuade certain influential organisations to publish the guidelines for us, such that they may carry more influence should the platforms decide to address the problems.
 
-21.  However, it is understood that the platforms’ primary object is commercial interest. Therefore, we must link the welfare of HIRs and the platforms’ commercial interest by raising public awareness of HIRs’ employment hurdles.[[7\](#_ftn7) In particular, we decide to-
+21.  However, it is understood that the platforms’ primary object is commercial interest. Therefore, we must link the welfare of HIRs and the platforms’ commercial interest by raising public awareness of HIRs’ employment hurdles.[7\](#_ftn7) In particular, we decide to-
 
      (1)  also show the hurdles faced by the HIRs in the said documentary; and
 
@@ -202,16 +202,16 @@ These guidelines are the most significant steps that should be taken, but the pl
 
 ------
 
-[[1\](#_ftnref1) The organisations include the Hong Kong Rehabilitation Power and the Dignity Kitchen Hong Kong. 
+[[1\](#_ftn1) The organisations include the Hong Kong Rehabilitation Power and the Dignity Kitchen Hong Kong. 
 
-[[2\](#_ftnref2) Due to privacy concerns, the detailed records of the interviews will not be disclosed in the report.
+[[2\](#_ftn2) Due to privacy concerns, the detailed records of the interviews will not be disclosed in the report.
 
-[[3\](#_ftnref3) See Appendix 2, paragraph 1.
+[[3\](#_ftn3) See Appendix 2, paragraph 1.
 
-[[4\](#_ftnref4) See Appendix 2, paragraph 2.
+[[4\](#_ftn4) See Appendix 2, paragraph 2.
 
-[[5\](#_ftnref5) 3 HIPs indicated that they decided not to be riders due to the concern about the potential discrimination.
+[[5\](#_ftn5) 3 HIPs indicated that they decided not to be riders due to the concern about the potential discrimination.
 
-[[6\](#_ftnref6) In the survey, 18 HIPs answered the question whether they have considered or have been working as riders. 12 of them answered in the affirmative. Additionally, as shown by the interview with HKSD at paragraph 3 of Appendix 2, food delivery is an attractive industry for HIPs. 
+[[6\](#_ftn6) In the survey, 18 HIPs answered the question whether they have considered or have been working as riders. 12 of them answered in the affirmative. Additionally, as shown by the interview with HKSD at paragraph 3 of Appendix 2, food delivery is an attractive industry for HIPs. 
 
-[[7\](#_ftnref7) We have attempted to contact the platforms directly, but understandably we have received no response.
+[[7\](#_ftn7) We have attempted to contact the platforms directly, but understandably we have received no response.
