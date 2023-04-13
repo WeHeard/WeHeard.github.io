@@ -100,6 +100,27 @@ redirect_from:
 
 
 
+
+
+<br/>
+<br/>
+
+------
+
+<a id="_ftn1">[1]</a> The organisations include the Hong Kong Rehabilitation Power and the Dignity Kitchen Hong Kong. 
+
+<a id="_ftn2">[2]</a> Due to privacy concerns, the detailed records of the interviews will not be disclosed in the report.
+
+<a id="_ftn3">[3]</a> See Appendix 2, paragraph 1.
+
+<a id="_ftn4">[4]</a> See Appendix 2, paragraph 2.
+
+<a id="_ftn5">[5]</a> 3 HIPs indicated that they decided not to be riders due to the concern about the potential discrimination.
+
+<a id="_ftn6">[6]</a> In the survey, 18 HIPs answered the question whether they have considered or have been working as riders. 12 of them answered in the affirmative. Additionally, as shown by the interview with HKSD at paragraph 3 of Appendix 2, food delivery is an attractive industry for HIPs. 
+
+<a id="_ftn7">[7]</a> We have attempted to contact the platforms directly, but understandably we have received no response.
+
 <br/>
 <br/>
 <br/>
@@ -195,29 +216,9 @@ These guidelines are the most significant steps that should be taken, but the pl
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-
-------
-
-<a id="_ftn1">[1]</a> The organisations include the Hong Kong Rehabilitation Power and the Dignity Kitchen Hong Kong. 
-
-<a id="_ftn2">[2]</a> Due to privacy concerns, the detailed records of the interviews will not be disclosed in the report.
-
-<a id="_ftn3">[3]</a> See Appendix 2, paragraph 1.
-
-<a id="_ftn4">[4]</a> See Appendix 2, paragraph 2.
-
-<a id="_ftn5">[5]</a> 3 HIPs indicated that they decided not to be riders due to the concern about the potential discrimination.
-
-<a id="_ftn6">[6]</a> In the survey, 18 HIPs answered the question whether they have considered or have been working as riders. 12 of them answered in the affirmative. Additionally, as shown by the interview with HKSD at paragraph 3 of Appendix 2, food delivery is an attractive industry for HIPs. 
-
-<a id="_ftn7">[7]</a> We have attempted to contact the platforms directly, but understandably we have received no response.
 
 
-<br/>
-<br/>
+
 
 
 [Download Here](https://weheard.github.io/files/Report on the Hearing-impaired Delivery Persons' Hurdles.pdf)
